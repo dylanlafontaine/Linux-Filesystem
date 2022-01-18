@@ -1,0 +1,4 @@
+rm a.out
+sudo ./mkdisk
+sudo cc main.c
+./a.out
